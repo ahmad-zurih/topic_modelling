@@ -1,3 +1,4 @@
 pyLDAvis==3.4.1
 nltk==3.8.1
 gensim==4.3.2
+bertopic==0.15.0
