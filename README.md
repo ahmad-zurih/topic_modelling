@@ -10,6 +10,7 @@
 * Overleaf project (to be created)
 
 ## Resources
+* The ‘Spiritual’ and the ‘Religious’ in the Twittersphere: A Topic Model and Semantic Map (Fabian Winiger, Gerold Schneider, Janis Goldzycher, David Neuhold, Simon Peng-Keller)
 ### LDA
 * Demystifying Topic Modeling Techniques in NLP: https://vijay-choubey.medium.com/demystifying-topic-modeling-techniques-in-nlp-c0d11616a287
 ### Pachinko Allocation
