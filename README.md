@@ -1,5 +1,9 @@
 # Stability of Topics in Automatic Clustering Algorithms
 
+## TODO
+* use a common preprocessing pipeline for all models
+* create a requirements.txt for a working virtual environment
+* write user instructions in the final README
 
 ## Resources
 ### Pachinko Allocation
