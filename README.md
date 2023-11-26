@@ -2,4 +2,4 @@
 
 
 ## Resources
-* \href{Mixtures of Hierarchical Topics with Pachinko Allocation}{https://mimno.infosci.cornell.edu/papers/icml-hpam.pdf
+* Mixtures of Hierarchical Topics with Pachinko Allocation: https://mimno.infosci.cornell.edu/papers/icml-hpam.pdf
