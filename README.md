@@ -1,6 +1,6 @@
 # Stability of Topics in Automatic Clustering Algorithms
 
-## TODO
+## TODOs
 * keep models "exclusive": religion, spirituality, religion AND spirituality
 * add .py scripts and modules with final scripts for 10-topic models
 * use a common preprocessing pipeline for all models
