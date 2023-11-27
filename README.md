@@ -1,6 +1,7 @@
 # Stability of Topics in Automatic Clustering Algorithms
 
 ## TODO
+* add .py scripts and modules with final scripts for 10-topic models
 * use a common preprocessing pipeline for all models
 * create a requirements.txt for a working virtual environment
 * write user instructions in the final README
