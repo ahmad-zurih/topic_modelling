@@ -28,7 +28,7 @@ def preprocess(text):
     """
     result = []
     for token in simple_preprocess(text):
-        if token not in STOPWORDS and len(token) > 3:
+        if token not in STOPWORDS and len(token) > 3 and token != "embeddedurl":
             result.append(WordNetLemmatizer().lemmatize(token, pos='v'))
     return result
 
