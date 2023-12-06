@@ -1,0 +1,499 @@
+LDA Topic 9 and BERTopic Topic -1 have a similarity score of: 0.6666666666666666
+Common Words: know, religion, like, spirituality, people, life, think, spiritual
+Uncommon Words in LDA: hard, need
+Uncommon Words in BERTopic: right, love
+
+LDA Topic 9 and BERTopic Topic 0 have a similarity score of: 0.5384615384615384
+Common Words: religion, like, spirituality, people, life, hard, spiritual
+Uncommon Words in LDA: know, need, think
+Uncommon Words in BERTopic: meditation, love, world
+
+LDA Topic 8 and BERTopic Topic 0 have a similarity score of: 0.3333333333333333
+Common Words: love, spirituality, life, world, spiritual
+Uncommon Words in LDA: live, soul, peace, light, video
+Uncommon Words in BERTopic: meditation, religion, like, people, hard
+
+LDA Topic 8 and BERTopic Topic -1 have a similarity score of: 0.25
+Common Words: love, spirituality, spiritual, life
+Uncommon Words in LDA: live, soul, peace, light, video, world
+Uncommon Words in BERTopic: know, religion, like, people, right, think
+
+LDA Topic 4 and BERTopic Topic 0 have a similarity score of: 0.17647058823529413
+Common Words: people, religion, world
+Uncommon Words in LDA: india, calm, black, hindu, religious, culture, suffer
+Uncommon Words in BERTopic: meditation, like, spirituality, love, life, hard, spiritual
+
+LDA Topic 5 and BERTopic Topic 0 have a similarity score of: 0.17647058823529413
+Common Words: meditation, spirituality, love
+Uncommon Words in LDA: wisdom, awaken, mindfulness, heal, label, health, inspiration
+Uncommon Words in BERTopic: religion, like, people, life, hard, world, spiritual
+
+LDA Topic 3 and BERTopic Topic -1 have a similarity score of: 0.1111111111111111
+Common Words: spirituality, love
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, alratv, positive
+Uncommon Words in BERTopic: know, religion, like, people, right, life, think, spiritual
+
+LDA Topic 3 and BERTopic Topic 0 have a similarity score of: 0.1111111111111111
+Common Words: spirituality, love
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, alratv, positive
+Uncommon Words in BERTopic: meditation, religion, like, people, life, hard, world, spiritual
+
+LDA Topic 4 and BERTopic Topic -1 have a similarity score of: 0.1111111111111111
+Common Words: people, religion
+Uncommon Words in LDA: india, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: know, love, like, spirituality, right, life, think, spiritual
+
+LDA Topic 5 and BERTopic Topic -1 have a similarity score of: 0.1111111111111111
+Common Words: spirituality, love
+Uncommon Words in LDA: meditation, wisdom, awaken, mindfulness, heal, label, health, inspiration
+Uncommon Words in BERTopic: know, religion, like, people, right, life, think, spiritual
+
+LDA Topic 0 and BERTopic Topic -1 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: teach, guru, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: know, religion, love, like, people, right, life, think, spiritual
+
+LDA Topic 0 and BERTopic Topic 0 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: teach, guru, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: meditation, religion, like, people, love, life, hard, world, spiritual
+
+LDA Topic 1 and BERTopic Topic -1 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: spirit, daily, bless, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: know, religion, love, like, people, right, life, think, spiritual
+
+LDA Topic 1 and BERTopic Topic 0 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: spirit, daily, bless, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: meditation, religion, like, people, love, life, hard, world, spiritual
+
+LDA Topic 6 and BERTopic Topic -1 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: master, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: know, religion, love, like, people, right, life, think, spiritual
+
+LDA Topic 6 and BERTopic Topic 0 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: master, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: meditation, religion, like, people, love, life, hard, world, spiritual
+
+LDA Topic 6 and BERTopic Topic 5 have a similarity score of: 0.05263157894736842
+Common Words: book
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, yoga, experience, nature, science, read
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, fantasy, crime, wolfpackauthors
+
+LDA Topic 6 and BERTopic Topic 8 have a similarity score of: 0.05263157894736842
+Common Words: yoga
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, experience, nature, science, book, read
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 7 and BERTopic Topic -1 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: happiness, inspirational, maharaj, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: know, religion, love, like, people, right, life, think, spiritual
+
+LDA Topic 7 and BERTopic Topic 0 have a similarity score of: 0.05263157894736842
+Common Words: spirituality
+Uncommon Words in LDA: happiness, inspirational, maharaj, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: meditation, religion, like, people, love, life, hard, world, spiritual
+
+LDA Topic 0 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 0 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 0 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 0 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 0 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 0 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 0 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 0 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: teach, guru, spirituality, singh, consciousness, success, click, gurmeetramrahim, divine, humanity
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 1 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 1 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 1 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 1 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 1 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 1 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 1 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 1 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: spirit, daily, bless, spirituality, hours, away, quote, step, change, connection
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 2 and BERTopic Topic -1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: know, religion, love, like, spirituality, people, right, life, think, spiritual
+
+LDA Topic 2 and BERTopic Topic 0 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: meditation, religion, like, spirituality, people, love, life, hard, world, spiritual
+
+LDA Topic 2 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 2 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 2 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 2 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 2 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 2 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 2 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 2 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: drug, message, dark_skin_tone, path, free, evolution, freedom, page, paint, true
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 3 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 3 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 3 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 3 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 3 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 3 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 3 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 3 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: faith, jesus, african, guide, manifest, grace, spirituality, alratv, positive, love
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 4 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 4 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 4 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 4 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 4 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 4 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 4 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 4 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: religion, india, people, calm, black, hindu, religious, culture, suffer, world
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 5 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 5 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 5 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 5 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 5 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 5 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 5 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 5 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: meditation, wisdom, awaken, love, mindfulness, spirituality, heal, label, health, inspiration
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 6 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 6 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 6 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 6 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 6 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 6 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: master, spirituality, sagittarius, meditate, yoga, experience, nature, science, book, read
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 7 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 7 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 7 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 7 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 7 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 7 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 7 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 7 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: happiness, inspirational, maharaj, spirituality, vedanta, youtube, saint, advaita, mooji, visit
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 8 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 8 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 8 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 8 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 8 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 8 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 8 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 8 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: live, soul, peace, spirituality, light, love, life, video, world, spiritual
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
+
+LDA Topic 9 and BERTopic Topic 1 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: abduct, multi, junta, terrorists, strike, dictatorship, military, protesters, coup, mandalay
+
+LDA Topic 9 and BERTopic Topic 2 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: muslimadvocates, racism, nilc, winners, unjust, dvlottery, damage, muslimban, aclu, voice
+
+LDA Topic 9 and BERTopic Topic 3 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: math, chemistry, essaypay, history, assignment, english, biology, essay, homework, paper
+
+LDA Topic 9 and BERTopic Topic 4 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: destroy, lawyers, microsoft, jackwelch, billgates, jeffbezos, amazon, melindagates, sriarjun, bliss
+
+LDA Topic 9 and BERTopic Topic 5 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: member, profile, sharon, sharonl, romance, lopez, book, fantasy, crime, wolfpackauthors
+
+LDA Topic 9 and BERTopic Topic 6 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: wonderful, , victory
+
+LDA Topic 9 and BERTopic Topic 7 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: poetic, madden, pollen, soil, quaker, pensive, maddendavidj, goodreads, cupboard, corazn
+
+LDA Topic 9 and BERTopic Topic 8 have a similarity score of: 0.0
+Common Words:
+Uncommon Words in LDA: know, religion, like, spirituality, need, people, life, think, hard, spiritual
+Uncommon Words in BERTopic: mental, widely, benefit, flexibility, pilates, yoga, physical, weareyogapose, rehabilitation, root
