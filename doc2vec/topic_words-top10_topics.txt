@@ -1,0 +1,175 @@
+[['sagittarius' 'sag' 'scorpio' 'aries' 'aquarius' 'pisces' 'astrologers'
+  'gemini' 'capricorn' 'libra' 'zodiac' 'astrology' 'rahu' 'spiritual'
+  'horoscopes' 'spirituality' 'horoscope' 'taurus' 'astrologer' 'virgo'
+  'jyotish' 'leo' 'astro' 'labeling' 'amethyst' 'labels' 'sign' 'label'
+  'spiritualism' 'occult' 'gemstone' 'kundalini' 'wiccan' 'wicca'
+  'cancer' 'signs' 'chakras' 'solstice' 'tarot' 'ketu' 'mysticism'
+  'spiritually' 'vedic' 'pagans' 'religiosity' 'agnostic' 'shamanism'
+  'dharma' 'freethinker' 'witchy']
+ ['shamanism' 'racial' 'african' 'tribalism' 'bigots' 'racists' 'bigotry'
+  'culturally' 'racism' 'bigoted' 'spirituality' 'religions' 'spiritual'
+  'discriminate' 'discriminatory' 'supremacist' 'spiritualism' 'africans'
+  'racist' 'religion' 'apartheid' 'animism' 'adherents' 'spiritualist'
+  'prejudice' 'ethnicity' 'segregation' 'sectarianism' 'indigenous'
+  'whiteness' 'poc' 'blacks' 'supremacists' 'humanism' 'discrimination'
+  'caste' 'minorities' 'race' 'ism' 'aboriginal' 'bigot' 'humanists'
+  'melanin' 'whites' 'ethiopian' 'cultural' 'hinduism' 'ethnic' 'sanatan'
+  'hindu']
+ ['spirituality' 'spiritual' 'spiritualism' 'spiritually' 'ashram'
+  'spiritualist' 'mysticism' 'metaphysical' 'samadhi' 'shamanism'
+  'spiritualists' 'kundalini' 'namaste' 'tantra' 'osho' 'sufism'
+  'meditative' 'dharma' 'bhakti' 'vedanta' 'mindfulness' 'meditate'
+  'meditation' 'tolle' 'introspection' 'deepak' 'enlightenment'
+  'meditations' 'vishnu' 'occultism' 'mystics' 'thyself' 'transcend'
+  'gita' 'oneness' 'metaphysics' 'pagans' 'godliness' 'rs' 'preached'
+  'religiosity' 'swami' 'rumi' 'soul' 'transcendence' 'meditating'
+  'enlightened' 'moksha' 'spirit' 'sufi']
+ ['religions' 'religion' 'faiths' 'atheist' 'sect' 'atheists' 'hindu'
+  'religious' 'beliefs' 'bahai' 'secular' 'worships' 'agnostic'
+  'religiously' 'atheism' 'shamanism' 'adherents' 'sanatan' 'jainism'
+  'buddhism' 'hinduism' 'wicca' 'dogmatic' 'devout' 'christianity'
+  'religiosity' 'bigoted' 'sectarianism' 'islam' 'spiritualism'
+  'sectarian' 'theist' 'humanists' 'scientology' 'interfaith' 'muslim'
+  'sikhism' 'pagan' 'secularism' 'worshipping' 'preached' 'freethinker'
+  'worshippers' 'sikh' 'evangelicalism' 'catholicism' 'sharia' 'wiccan'
+  'cult' 'animism']
+ ['religion' 'religions' 'religious' 'faiths' 'scientology' 'islam'
+  'christianity' 'worships' 'religiosity' 'hinduism' 'judaism' 'paganism'
+  'hindu' 'wicca' 'agnostic' 'muslim' 'atheist' 'buddhism' 'atheism'
+  'religiously' 'catholicism' 'jainism' 'bahai' 'sectarian' 'catholic'
+  'atheists' 'cults' 'sikhism' 'secular' 'shamanism' 'christian' 'cult'
+  'devout' 'pagan' 'anglican' 'adherents' 'sects' 'satanism' 'beliefs'
+  'sikh' 'shinto' 'worshipping' 'taoism' 'wiccan' 'islamist'
+  'sectarianism' 'animism' 'sect' 'koran' 'worshippers']
+ ['freedoms' 'theocracy' 'secularism' 'freedom' 'sharia' 'liberty' 'aclu'
+  'constitutional' 'religions' 'constitution' 'religion' 'secular'
+  'godless' 'tyranny' 'religious' 'intolerance' 'islamophobic'
+  'freethinker' 'faiths' 'amendment' 'forefathers' 'oppress' 'oppression'
+  'islamophobia' 'sectarianism' 'intolerant' 'scotus' 'islamist'
+  'atheism' 'oppressive' 'religiosity' 'beliefs' 'islam' 'mosques'
+  'persecuted' 'democracy' 'koran' 'christianity' 'humanists' 'preached'
+  'worshippers' 'wicca' 'oppressed' 'hindu' 'atheist' 'scientology'
+  'persecution' 'anglican' 'islamists' 'tolerance']
+ ['spirituality' 'spiritual' 'spiritualism' 'religions' 'religion'
+  'religious' 'spiritualist' 'religiosity' 'shamanism' 'agnostic'
+  'mysticism' 'spiritualists' 'wiccan' 'beliefs' 'wicca' 'theist'
+  'spiritually' 'theists' 'animism' 'pagans' 'atheist' 'christian'
+  'metaphysical' 'hinduism' 'taoism' 'humanism' 'buddhism' 'believers'
+  'christianity' 'faiths' 'ashram' 'pagan' 'sufism' 'paganism'
+  'interfaith' 'atheism' 'humanists' 'bahai' 'theism' 'osho' 'hindu'
+  'freethinker' 'devotional' 'gnosticism' 'gnostic' 'theology'
+  'adherents' 'belief' 'occultism' 'scientism']
+ ['hindu' 'hindus' 'hinduism' 'hindutva' 'jainism' 'sanatan' 'vedas'
+  'brahmins' 'iskcon' 'brahma' 'jain' 'dharmic' 'mandir' 'sikhism'
+  'kalki' 'dharma' 'swami' 'sikh' 'dalits' 'veda' 'advaita' 'bhakti'
+  'sahib' 'religions' 'vedic' 'dalit' 'sikhs' 'brahmin' 'bjp' 'ashram'
+  'gita' 'vedanta' 'samadhi' 'sikhi' 'swamy' 'nanak' 'hindustan' 'castes'
+  'caste' 'navratri' 'moksha' 'faiths' 'jinnah' 'haryana' 'vishnu'
+  'durga' 'kashmiri' 'shri' 'osho' 'buddhism']
+ ['spirituality' 'spiritual' 'rt' 'spiritualism' 'spiritually'
+  'mysticism' 'spiritualist' 'shamanism' 'sufism' 'sufi' 'spiritualists'
+  'ashram' 'religiosity' 'rumi' 'osho' 'theists' 'pagans' 'tolle'
+  'kundalini' 'metaphysical' 'religious' 'gnosticism' 'religions'
+  'humanism' 'rs' 'mindfulness' 'mystics' 'theist' 'chopra' 'metaphysics'
+  'gnostic' 'bahai' 'agnostic' 'occultism' 'devotional' 'wicca'
+  'transcend' 'taoism' 'wiccan' 'swami' 'paganism' 'mehdi' 'deepak'
+  'humanists' 'orthodox' 'freethinker' 'vishnu' 'bhakti' 'namaste'
+  'hinduism']
+ ['islam' 'muslim' 'muslims' 'islamic' 'islamophobic' 'islamists'
+  'islamist' 'islamophobia' 'ummah' 'koran' 'pbuh' 'quran' 'religions'
+  'imam' 'mosque' 'faiths' 'hadith' 'haram' 'mohammad' 'hazrat' 'sharia'
+  'mohammed' 'sufi' 'shaykh' 'sufism' 'ramadan' 'muhammad' 'bukhari'
+  'hindu' 'allah' 'ibn' 'abrahamic' 'jihad' 'sunnah' 'allahu' 'masjid'
+  'mosques' 'sunni' 'hinduism' 'hijab' 'sectarianism' 'caliphate'
+  'adherents' 'surah' 'akbar' 'religion' 'halal' 'wali' 'bahai' 'sanatan']]
+  [[0.61257106 0.45400366 0.44102553 0.43871137 0.42734855 0.39435226
+  0.39359778 0.3846393  0.37510353 0.35850668 0.35236025 0.34527823
+  0.3446666  0.34045458 0.33743155 0.33156794 0.33068097 0.33025047
+  0.32938993 0.3228887  0.31301847 0.31129324 0.29333356 0.2921727
+  0.28825176 0.2857488  0.28404573 0.277997   0.2731928  0.27092892
+  0.26926464 0.26627123 0.26537    0.26365858 0.26329747 0.2606088
+  0.2601493  0.25709623 0.25360605 0.25328815 0.25183213 0.24720001
+  0.24614239 0.24559328 0.24207452 0.24117509 0.23777473 0.23772496
+  0.23733321 0.23690191]
+ [0.3778441  0.36929423 0.35751    0.34928602 0.34628087 0.3415028
+  0.33969432 0.33490378 0.33180004 0.3307991  0.3305351  0.32792306
+  0.32780612 0.32720777 0.322659   0.31503898 0.3142709  0.3139357
+  0.31248853 0.309929   0.3069058  0.30640328 0.30348465 0.30323207
+  0.30233315 0.30201045 0.30183733 0.30075502 0.30013156 0.29996586
+  0.2987415  0.29872644 0.29634202 0.29381496 0.29304534 0.29290882
+  0.29172015 0.29170972 0.29150927 0.29082432 0.29014766 0.28945822
+  0.2884403  0.28618467 0.28523463 0.2847252  0.28419477 0.28325054
+  0.28261036 0.28078023]
+ [0.5818802  0.55366385 0.46619442 0.4255665  0.36962178 0.3681492
+  0.35866177 0.35361773 0.35179836 0.35023552 0.3465714  0.34011033
+  0.33696747 0.32877684 0.3245046  0.316455   0.31261548 0.31191784
+  0.31143937 0.30942488 0.3078686  0.30710033 0.30541357 0.30521995
+  0.30448845 0.3036071  0.30359668 0.3035883  0.30348164 0.30070752
+  0.3003177  0.2920199  0.29134002 0.2891295  0.2890525  0.2878306
+  0.28703132 0.28599107 0.2854385  0.28366888 0.28246802 0.2823777
+  0.2806696  0.280616   0.28057194 0.2805587  0.27982304 0.2794444
+  0.2790459  0.277469  ]
+ [0.41350475 0.39107594 0.35671222 0.3497883  0.34248745 0.33914566
+  0.33717573 0.32817912 0.32721302 0.32404268 0.32253277 0.31991437
+  0.31941858 0.31255114 0.31200752 0.3099612  0.30863672 0.30711818
+  0.3040076  0.30188015 0.30157506 0.2980392  0.29688904 0.29662123
+  0.29491058 0.29439607 0.29354915 0.2926466  0.2912678  0.29065883
+  0.2906357  0.28876606 0.28655654 0.28218937 0.28185296 0.28164086
+  0.28110445 0.28021717 0.27856964 0.2774033  0.2756826  0.27515697
+  0.27515605 0.27285326 0.2706956  0.2694563  0.26885796 0.26804477
+  0.26656646 0.26628017]
+ [0.6023482  0.600303   0.46970415 0.4591688  0.45902842 0.42459083
+  0.4178835  0.41742218 0.41427022 0.4030899  0.40230632 0.40040675
+  0.39773667 0.39282858 0.3927212  0.39269504 0.39113772 0.3880841
+  0.38636485 0.38628617 0.3844111  0.38285667 0.38069543 0.37918657
+  0.37763894 0.37452084 0.37362838 0.3707469  0.3696534  0.3694347
+  0.36676043 0.3663823  0.3612482  0.36084914 0.3594584  0.35625046
+  0.35294485 0.35240483 0.35182202 0.3512533  0.3509255  0.3502012
+  0.3496322  0.34862128 0.3483707  0.34660134 0.3432464  0.34020227
+  0.33683705 0.33610195]
+ [0.44073477 0.41527513 0.39495945 0.38473922 0.35779613 0.35758603
+  0.3513135  0.3476179  0.34241    0.34122092 0.340459   0.33612466
+  0.31319386 0.30609083 0.30532598 0.30424333 0.29986823 0.29604736
+  0.2942624  0.291389   0.2907083  0.29002595 0.28127652 0.2809955
+  0.2807274  0.28032896 0.27987647 0.27893427 0.27821457 0.27445152
+  0.2726536  0.27108175 0.27047306 0.26910445 0.26816142 0.26814368
+  0.26655656 0.26539338 0.26409823 0.26295495 0.26232928 0.2617349
+  0.26028666 0.25871575 0.25848743 0.25814602 0.25799173 0.25692266
+  0.25676668 0.25505412]
+ [0.6269554  0.5707644  0.51574576 0.4865216  0.47893894 0.47141358
+  0.45602232 0.45081902 0.43561924 0.41554195 0.41269714 0.40437672
+  0.4019958  0.40090686 0.393062   0.39153463 0.38901076 0.3844599
+  0.384324   0.38104966 0.37846577 0.37671027 0.37601712 0.3754813
+  0.3710562  0.36991006 0.36891192 0.36849314 0.36751902 0.3641382
+  0.36252797 0.3624424  0.35995626 0.35981464 0.35792693 0.3578604
+  0.3561419  0.3479718  0.34742838 0.34581822 0.34516355 0.34272897
+  0.34270063 0.3426392  0.3421055  0.3388034  0.33704424 0.3338639
+  0.33342993 0.33333808]
+ [0.65409195 0.64546347 0.6348876  0.5054242  0.4910627  0.49102584
+  0.4785071  0.47770712 0.47036576 0.465442   0.4631203  0.46070462
+  0.45713502 0.45526958 0.45490828 0.45077884 0.44779158 0.4401663
+  0.43487942 0.43366948 0.43355632 0.43344286 0.43266612 0.43239528
+  0.43214932 0.4314711  0.4233868  0.42212728 0.4212344  0.41838023
+  0.40797326 0.4078007  0.40763822 0.40681225 0.40355635 0.40312102
+  0.40290445 0.3988759  0.39763516 0.39677602 0.39636135 0.39219153
+  0.39118955 0.39071703 0.38901502 0.38778317 0.38534117 0.38527155
+  0.38374907 0.3812531 ]
+ [0.5958911  0.5187204  0.4743749  0.47217864 0.35942206 0.34233522
+  0.33547837 0.32690096 0.31888968 0.31870887 0.31780663 0.31621754
+  0.31603834 0.31536877 0.30832815 0.30308217 0.30297807 0.29961446
+  0.29945743 0.29888606 0.29867697 0.2979253  0.2956096  0.29076588
+  0.29050016 0.28830785 0.28648162 0.28413796 0.2821926  0.2821594
+  0.28063092 0.28044844 0.28038976 0.27930498 0.2791773  0.2778681
+  0.27711675 0.27567685 0.27426666 0.26966128 0.26747143 0.26252013
+  0.26192093 0.26054963 0.2598439  0.25919354 0.25884378 0.25876394
+  0.25865567 0.25778332]
+ [0.581905   0.5500964  0.5463498  0.5146691  0.4865914  0.4701627
+  0.46732503 0.46448034 0.45874202 0.45266885 0.4386332  0.43087962
+  0.4272846  0.4260097  0.42140397 0.4192484  0.41203964 0.41093907
+  0.41031355 0.4080906  0.40777236 0.4009782  0.40013668 0.39990127
+  0.39918995 0.39852208 0.39759263 0.39685237 0.3930165  0.39198875
+  0.39033318 0.38911146 0.3890546  0.3886953  0.38766143 0.38653186
+  0.382781   0.38248724 0.38229442 0.38181388 0.38105705 0.37952206
+  0.3788976  0.37847182 0.3754372  0.37115526 0.37046844 0.36794734
+  0.36709833 0.36295527]]
+[0 1 2 3 4 5 6 7 8 9]
