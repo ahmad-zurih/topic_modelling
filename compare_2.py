@@ -80,3 +80,39 @@ for lda_idx, bertopic_idx, sim, common_words, uncommon_words_lda, uncommon_words
 # Cleanup
 del data
 gc.collect()
+
+import fasttext
+import fasttext.util
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
+
+# Load pre-trained FastText model
+ft_model = fasttext.load_model('cc.en.300.bin')
+
+def get_word_vector(word, model):
+    if word in model.words:
+        return model.get_word_vector(word)
+    else:
+        return np.zeros(model.get_dimension())
+
+def topic_coherence(topic_words, ft_model):
+    coherence_scores = []
+    for i, word1 in enumerate(topic_words):
+        for word2 in topic_words[i+1:]:
+            word1_vector = get_word_vector(word1, ft_model)
+            word2_vector = get_word_vector(word2, ft_model)
+            similarity = cosine_similarity([word1_vector], [word2_vector])[0, 0]
+            coherence_scores.append(similarity)
+    return sum(coherence_scores) / len(coherence_scores) if coherence_scores else 0
+
+def evaluate_topics(topics, ft_model):
+    for topic_idx, words in topics.items():
+        coherence = topic_coherence(words, ft_model)
+        print(f"Topic {topic_idx} Coherence: {coherence}")
+
+# Evaluate coherence for LDA and BERTopic
+print("LDA Topic Coherence")
+evaluate_topics(lda_topics, ft_model)
+
+print("\nBERTopic Coherence")
+evaluate_topics(bertopic_topics, ft_model)
